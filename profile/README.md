@@ -37,13 +37,21 @@ Data East, Stern SAM and Whitestar).
 The Effect Controller should be able to drive hundreds (or thousands?) of LEDs, PWM devices, ... in parallel in a
 non-blocking way.
 
+[![Watch the video](https://img.youtube.com/vi/LCGjzt88AMo/default.jpg)](https://youtu.be/LCGjzt88AMo)
+[![Watch the video](https://img.youtube.com/vi/L5reBPVoL4c/default.jpg)](https://youtu.be/L5reBPVoL4c)
+[![Watch the video](https://img.youtube.com/vi/4dq9ez786GY/default.jpg)](https://youtu.be/4dq9ez786GY)
+[![Watch the video](https://img.youtube.com/vi/aY2foJ0kw9o/default.jpg)](https://youtu.be/aY2foJ0kw9o)
+
+
 ### Homebrew machines
 
 WIP
 
 ### Replacing a CPU (and drivers)
 
-WIP, see [PinMAME project](https://github.com/vpinball/pinmame/tree/master/src/ppuc).
+WIP, see [PPUC sub-system as part of the PinMAME project](https://github.com/vpinball/pinmame/tree/master/src/ppuc).
+
+[![Watch the video](https://img.youtube.com/vi/BKefBGnp9Js/default.jpg)](https://youtu.be/BKefBGnp9Js)
 
 ## Licence
 
