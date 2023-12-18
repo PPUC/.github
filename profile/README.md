@@ -1,4 +1,4 @@
-# Pinball Power-Up Controller (PPUC)
+# Pinball Power-Up Controller (PPUC) and ZeDMD
 
 The Pinball Power-Up Controller software and hardware family is designed to enhance the capabilities of classic pinball
 machines, mainly of the 80s and 90s and to drive the hardware of home brew pinball machines.
@@ -60,3 +60,8 @@ under a compatible licence.
 That doesn't prevent any commercial use, but you need to respect the terms and conditions of GPLv3!
 
 We would appreciate contributions to PPUC itself or as game-specific PPUs.
+
+
+# ZeDMD
+
+[![Watch the video](https://img.youtube.com/vi/B6D00oB4Co8/default.jpg)](https://youtu.be/B6D00oB4Co8)
