@@ -45,7 +45,10 @@ non-blocking way.
 
 ### Homebrew machines
 
-WIP
+Still WIP, but the hardware and firmware gets better and better ;-)
+
+![PCB Pic](https://github.com/PPUC/Hardware_IO_16_8_1/blob/main/IO_16_8_1/PCB_V010_TH.jpg)
+![PCB Pic](https://github.com/PPUC/Hardware_Out_8x10/blob/master/Out_8x10/PCB_Out_8x10.jpg)
 
 ### Replacing a CPU (and drivers)
 
@@ -63,5 +66,8 @@ We would appreciate contributions to PPUC itself or as game-specific PPUs.
 
 
 # ZeDMD
+
+ZeDMD is a "real" DMD for pinball emulations and other use cases, developed as part of the PPUC project.
+For more details, visit the [ZeDMD page](https://github.com/PPUC/ZeDMD).
 
 [![Watch the video](https://img.youtube.com/vi/B6D00oB4Co8/default.jpg)](https://youtu.be/B6D00oB4Co8)
