@@ -3,24 +3,36 @@
 The Pinball Power-Up Controller software and hardware family is designed to enhance the capabilities of classic pinball
 machines, mainly of the 80s and 90s and to drive the hardware of home brew pinball machines.
 
-In existing machines, the controller is able to monitor all playfield switches, lights, and solenoids and to trigger and
-distribute corresponding *events* to attached sub-systems.
-In combination with PIN2DMD and TiltAudio it is possible to monitor DMD and sound commands, too.
+Meanwhile the PPUC family has grown and the hard and software covers various use-cases, like modding a pinball machine,
+repairing a pinball machine or to drive homebrew pinball machines.
 
-One sub-system is the built-in EffectController which is able to drive additional LEDs, motors, and coils.
+The first PPU Controller was designed to enhance existing machines. It is able to monitor all playfield switches, lights,
+and solenoids and to trigger and distribute corresponding *events* to attached sub-systems.
+It is possible to monitor DMD and sound commands, too.
+
+Sub-system like the built-in EffectController are able to drive additional LEDs, motors, and coils.
 Other sub-systems could be video players or audio systems. The additional effects are bundled per pinball machine in
 so-called *Pinball Power-Ups* (PPUs).
 
 For homebrew machines there will be additional software to act as "CPU", running the game logic aka rules and
-communicating with the controllers. (WIP)
+communicating with the controllers. The target is to use the VPX Standalone script engine and the VPX Standalone ecosytem.
 
-A special variation of that "CPU" will be suitable as replacement for a broken CPU of an existing machine.
-The development happens as part of the [PinMAME project](https://github.com/vpinball/pinmame/tree/master/src/ppuc).
+A special variation of that "CPU" is suitable as replacement for a broken CPU of an existing machine.
+That development started as part of the [PinMAME project](https://github.com/vpinball/pinmame/tree/master/src/ppuc).
+Nowadays it is a standalone programm that leverages libpinmame: https://github.com/PPUC/ppuc
+
+As a sub-project ZeDMD has been created to emulate a real DMD for virtual pinball machines and to be used with as
+replacement in real machines.
+
+To get involved in the development or to discuss your PPUC project, join us on [Discord](https://discord.gg/fkkk4MbBn5).
 
 ## Motivation
 
-We want to enable people to be creative and to modernize old pinball machines using today's technology. Our goal is to
-establish an open and affordable platform for that. Ideally people will publish their game-specific PPUs so others could
+We want to enable people to be creative and to modernize old pinball machines using today's technology.
+Or to get an old broken machine back to work.
+Our goal is to establish an open and affordable platform for that.
+
+Ideally people will publish their game-specific PPUs so others could
 leverage and potentially improve them. We want to see a growing library of PPUs and a vital homebrew pinball community.  
 
 ## Concept
