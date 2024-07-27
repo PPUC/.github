@@ -55,18 +55,36 @@ non-blocking way.
 [![Watch the video](https://img.youtube.com/vi/aY2foJ0kw9o/default.jpg)](https://youtu.be/aY2foJ0kw9o)
 
 
-### Homebrew machines
+### Homebrew machines or Replacing a CPU (and drivers)
 
-Still WIP, but the hardware and firmware gets better and better ;-)
+Still WIP, but the hardware and [io-bords firmware](https://github.com/PPUC/io-boards) gets better and better ;-)
+
+A PPUC board can control solonoids, flashers, motors, etc. They could read dedicated switches or a
+switch matrix.
+Lamps could als be controlled as dedidicated bulbs or LEDs, as light matrix or as addressable RGB(W) LEDs including
+after glow effects.
+
+Multipe boards can be cascaded to to have enough input and output ports. The communication happens via a BUS and the
+protocol enhances the DOF protocol which is known from the virtual pinball world.
 
 ![PCB Pic](https://github.com/PPUC/Hardware_IO_16_8_1/blob/main/IO_16_8_1/PCB_V010_TH.jpg)
 ![PCB Pic](https://github.com/PPUC/Hardware_Out_8x10/blob/master/Out_8x10/PCB_Out_8x10.jpg)
 
-### Replacing a CPU (and drivers)
-
-WIP, see [PPUC sub-system as part of the PinMAME project](https://github.com/vpinball/pinmame/tree/master/src/ppuc).
+In case of replacing a broken CPU and driver boards, the platform independent
+[PPUC command line tool](https://github.com/PPUC/ppuc) can run on any old or small computer like a Raspberry Pi
+and leverages libpinmame to emulate the ROM.
 
 [![Watch the video](https://img.youtube.com/vi/BKefBGnp9Js/default.jpg)](https://youtu.be/BKefBGnp9Js)
+
+It you replace the entire electronics and wiring of an existing machine, a
+[web-based configuration tool](https://github.com/PPUC/config-tool) could be used to configure your setup.
+
+In case of a homebrew machine, the intention is that you design and devolep your pinball machine using VPX.
+Our plan is to create a special version of VPX Standalone (VPX for Linux, macOS, iOS, Android) to operate the machine.
+You would have all capabilities like PUP Packs, FlexDMD, etc.
+
+[![Watch the video](https://img.youtube.com/vi/MTMMOd1anZY/default.jpg)](https://youtu.be/MTMMOd1anZY)
+
 
 ## Licence
 
@@ -83,3 +101,14 @@ ZeDMD is a "real" DMD for pinball emulations and other use cases, developed as p
 For more details, visit the [ZeDMD page](https://github.com/PPUC/ZeDMD).
 
 [![Watch the video](https://img.youtube.com/vi/B6D00oB4Co8/default.jpg)](https://youtu.be/B6D00oB4Co8)
+
+
+# Other components of the PPUC project
+
+To reach our goals, we contribute to other projects like VPX Standalone, batocera, libdmdutil, libserum etc.
+Some libraries and sub-projects that are also leveraged by others are hosted as PPUC projects:
+
+- (libzedmd)[https://github.com/PPUC/libzedmd]
+- (libpupdmd)[https://github.com/PPUC/libpupdmd]
+- (libframeutil)[https://github.com/PPUC/libframeutil]
+ 
