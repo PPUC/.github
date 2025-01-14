@@ -3,7 +3,8 @@
 The Pinball Power-Up Controller software and hardware family is designed to enhance the capabilities of classic pinball
 machines, mainly of the 80s and 90s, to repair broken machines and to drive the hardware of home brew pinball machines.
 
-[![Watch the video](https://img.youtube.com/vi/-LGO8dxLg2c/default.jpg)](https://youtu.be/-LGO8dxLg2c)
+[![Watch the video](https://img.youtube.com/vi/-LGO8dxLg2c/hqdefault.jpg)](https://youtu.be/-LGO8dxLg2c)
+*Click the image to watch the video on YouTube.*
 
 Meanwhile the PPUC family has grown and the hard and software covers various use-cases, like modding a pinball machine,
 repairing a pinball machine or to drive homebrew pinball machines.
@@ -55,7 +56,7 @@ non-blocking way.
 [![Watch the video](https://img.youtube.com/vi/L5reBPVoL4c/default.jpg)](https://youtu.be/L5reBPVoL4c)
 [![Watch the video](https://img.youtube.com/vi/4dq9ez786GY/default.jpg)](https://youtu.be/4dq9ez786GY)
 [![Watch the video](https://img.youtube.com/vi/aY2foJ0kw9o/default.jpg)](https://youtu.be/aY2foJ0kw9o)
-
+*Click the image to watch the videos on YouTube.*
 
 ### Homebrew machines or Replacing a CPU (and drivers)
 
@@ -76,7 +77,8 @@ In case of replacing a broken CPU and driver boards, the platform independent
 [PPUC command line tool](https://github.com/PPUC/ppuc) can run on any old or small computer like a Raspberry Pi
 and leverages libpinmame to emulate the ROM.
 
-[![Watch the video](https://img.youtube.com/vi/BKefBGnp9Js/default.jpg)](https://youtu.be/BKefBGnp9Js)
+[![Watch the video](https://img.youtube.com/vi/BKefBGnp9Js/hqdefault.jpg)](https://youtu.be/BKefBGnp9Js)
+*Click the image to watch the video on YouTube.*
 
 It you replace the entire electronics and wiring of an existing machine, a
 [web-based configuration tool](https://github.com/PPUC/config-tool) could be used to configure your setup.
@@ -85,7 +87,8 @@ In case of a homebrew machine, the intention is that you design and devolep your
 Our plan is to create a special version of VPX Standalone (VPX for Linux, macOS, iOS, Android) to operate the machine.
 You would have all capabilities like PUP Packs, FlexDMD, etc.
 
-[![Watch the video](https://img.youtube.com/vi/MTMMOd1anZY/default.jpg)](https://youtu.be/MTMMOd1anZY)
+[![Watch the video](https://img.youtube.com/vi/MTMMOd1anZY/hqdefault.jpg)](https://youtu.be/MTMMOd1anZY)
+*Click the image to watch the video on YouTube.*
 
 ![Overview Pic](images/overview.png)
 
@@ -97,14 +100,13 @@ That doesn't prevent any commercial use, but you need to respect the terms and c
 
 We would appreciate contributions to PPUC itself or as game-specific PPUs.
 
-
 # ZeDMD
 
 ZeDMD is a "real" DMD for pinball emulations and other use cases, developed as part of the PPUC project.
 For more details, visit the [ZeDMD page](https://github.com/PPUC/ZeDMD).
 
-[![Watch the video](https://img.youtube.com/vi/B6D00oB4Co8/default.jpg)](https://youtu.be/B6D00oB4Co8)
-
+[![Watch the video](https://img.youtube.com/vi/B6D00oB4Co8/hqdefault.jpg)](https://youtu.be/B6D00oB4Co8)
+*Click the image to watch the video on YouTube.*
 
 # Other components of the PPUC project
 
