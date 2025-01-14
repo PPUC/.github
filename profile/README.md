@@ -1,6 +1,5 @@
-[![Discord](https://img.shields.io/discord/759478464733642814.svg?logo=discord&logoColor=white&color=5865F2&label=Discord)](https://discord.gg/fkkk4MbBn5)
-
 # Pinball Power-Up Controller (PPUC) and ZeDMD
+[![Discord](https://img.shields.io/discord/759478464733642814.svg?logo=discord&logoColor=white&color=5865F2&label=Discord)](https://discord.gg/fkkk4MbBn5)
 
 The Pinball Power-Up Controller software and hardware family is designed to enhance the capabilities of classic pinball
 machines, mainly of the 80s and 90s, to repair broken machines and to drive the hardware of home brew pinball machines.
