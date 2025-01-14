@@ -56,7 +56,7 @@ non-blocking way.
 [![Watch the video](https://img.youtube.com/vi/L5reBPVoL4c/default.jpg)](https://youtu.be/L5reBPVoL4c)
 [![Watch the video](https://img.youtube.com/vi/4dq9ez786GY/default.jpg)](https://youtu.be/4dq9ez786GY)
 [![Watch the video](https://img.youtube.com/vi/aY2foJ0kw9o/default.jpg)](https://youtu.be/aY2foJ0kw9o)
-*Click the image to watch the videos on YouTube.*
+*Click the images to watch the videos on YouTube.*
 
 ### Homebrew machines or Replacing a CPU (and drivers)
 
