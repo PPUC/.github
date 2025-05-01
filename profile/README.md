@@ -61,7 +61,7 @@ non-blocking way.
 
 ### Homebrew machines or Replacing a CPU (and drivers)
 
-Still WIP, but the hardware and [io-bords firmware](https://github.com/PPUC/io-boards) gets better and better ;-)
+Still WIP, but the hardware and [io-boards firmware](https://github.com/PPUC/io-boards) gets better and better ;-)
 
 A PPUC board can control solonoids, flashers, motors, etc. They could read dedicated switches or a
 switch matrix.
