@@ -114,7 +114,8 @@ For more details, visit the [ZeDMD page](https://github.com/PPUC/ZeDMD).
 To reach our goals, we contribute to other projects like VPX Standalone, batocera, libdmdutil, libserum etc.
 Some libraries and sub-projects that are also leveraged by others are hosted as PPUC projects:
 
-- (libzedmd)[https://github.com/PPUC/libzedmd]
-- (libpupdmd)[https://github.com/PPUC/libpupdmd]
-- (libframeutil)[https://github.com/PPUC/libframeutil]
+- [libzedmd](https://github.com/PPUC/libzedmd)
+- [libpupdmd](https://github.com/PPUC/libpupdmd)
+- [libframeutil](https://github.com/PPUC/libframeutil)
+- [libserum (concentrate)](https://github.com/PPUC/libserum_concentrate)
  
